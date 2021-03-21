@@ -33,8 +33,7 @@ class Steam():
 
 
 
-    # Make into a function for better optimization
-
+    # Make into a function for better optimization upon next update
     url = resp
     data = url.text
     parsed = json.loads(data)
