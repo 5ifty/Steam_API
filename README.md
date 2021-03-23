@@ -7,6 +7,8 @@ A quick convinent handler to sort through the steamAPI
 Head over towards the Steam dev portal and apply for an API key 
 [link](https://steamcommunity.com/dev)
 
+Once you have got your API Key either enter it when prompted too, or for later ease of access, enter it into the config.json
+
 
 Once you have recieved your key, either paste it into the index.py file and compile or when the console prompts you too, enter it.
 
