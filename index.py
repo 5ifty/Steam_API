@@ -114,7 +114,7 @@ class Steam():
     else:
         print(f"\n\n\nThank you for using the SteamAPI console v{self.version} made by 5ifty")
         time.sleep(5)
-        exit()
+        quit()
         
 
         
