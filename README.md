@@ -8,7 +8,7 @@ Step 1)
 Head over towards the Steam dev portal and apply for an API key --> [link](https://steamcommunity.com/dev)
 
 Step 2)
-Once you have got your API Key either enter it into the command promt when asked too, or for later ease of access, enter it into the config.json* to stop you from having to keep enter it when using this. (**Make sure the config.json file and the SteamAPI.exe or the Steam1.1.0.py are in the same folder/directory**)
+Once you have got your API Key either enter it into the command promt when asked too, or for later ease of access, enter it into the config.json* to stop you from having to keep enter it when using this. (**Make sure the config.json file and the SteamAPI.exe or the Index.py are in the same folder/directory**)
 
 (*) Enter your API key into the empty quote marks
 
